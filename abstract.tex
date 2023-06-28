@@ -1,0 +1,21 @@
+\begin{abstract}
+    The recently developed Particle-based Variational Inference (ParVI) 
+    methods drive the empirical distribution of a set of  
+    particles towards a given unconstrained target distribution 
+    $\pi$ by iteratively updating particles' positions.
+    To tackle the limitation that ParVI methods can only handle unconstrained target distributions,
+    mirrored ParVI methods, e.g. mirrored SVGD method, are proposed to handle
+    constrained target distributions by evolving fixed-weight particles in a dual space defined by a mirror map.
+    However, the fix weight restriction in dual space greatly confines the approximation ability of
+    distributions in primal space. 
+    In this paper, we develop a general Mirrored Dynamic-weight Particle-based Variational Inference (MDPVI) framework 
+    according to a novel continuous composite flow, which evolves the positions 
+    and weights of particles simultaneously in a dual space 
+    to approximate constrained target distribution efficiently. 
+    We show that the mean-field limit of our composite flow is 
+    actually a Mirrored-Wasserstein-Fisher-Rao gradient flow of the associated dissimilarity functional. 
+    By using different finite-particle approximations in our general framework, 
+    we derive several efficient MDPVI algorithms. 
+    The empirical results demonstrate the superiority of our derived MDPVI 
+    algorithms over their fixed-weight counterparts1.
+\end{abstract}

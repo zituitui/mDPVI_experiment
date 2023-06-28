@@ -1,0 +1,18 @@
+\section{Introduction}
+
+Recently, Particle-based Variational Inference (ParVI) have drawn much attention 
+in the Bayesian inference literature, due to their success 
+in approximating unconstrained target distributions
+    \cite{liu2016stein,liu2018riemannian,liu2018stein,pu2017vae,zhu2020variance}. 
+The core of ParVIs lies at evolving the empirical distribution of $M$ \emph{fixed-weight} particles by simulating a \emph{continuity equation} 
+through its easy-to-calculate finite-particle position transport approximation 
+\cite{liu2019understanding}. 
+However, these ParVI methods would break down for sampling constrained target, like distributions on the simplex 
+or the targets of post-selection inference.
+\cite{shi2022sampling} tackle this challenge by apply Stein methods to fix-weight particles in dual space defined by
+a mirror map to approximate target constrained distributions in primal space.
+
+
+
+
+

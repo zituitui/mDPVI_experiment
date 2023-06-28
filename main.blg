@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: aaai23.bst
+Database file #1: main.bib
+Warning--can't use both volume and number fields in liu2018riemannian
+You've used 7 entries,
+            2840 wiz_defined-function locations,
+            620 strings with 5474 characters,
+and the built_in function-call counts, 4732 in all, are:
+= -- 382
+> -- 260
+< -- 1
++ -- 92
+- -- 86
+* -- 332
+:= -- 770
+add.period$ -- 29
+call.type$ -- 7
+change.case$ -- 59
+chr.to.int$ -- 8
+cite$ -- 8
+duplicate$ -- 320
+empty$ -- 307
+format.name$ -- 106
+if$ -- 926
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 65
+newline$ -- 39
+num.names$ -- 28
+pop$ -- 173
+preamble$ -- 1
+purify$ -- 51
+quote$ -- 0
+skip$ -- 165
+stack$ -- 0
+substring$ -- 165
+swap$ -- 160
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 63
+warning$ -- 1
+while$ -- 34
+width$ -- 0
+write$ -- 91
+(There was 1 warning)

@@ -1,0 +1,42 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+
+\bibitem[{Liu and Zhu(2018)}]{liu2018riemannian}
+Liu, C.; and Zhu, J. 2018.
+\newblock Riemannian Stein variational gradient descent for Bayesian inference.
+\newblock In \emph{AAAI}, volume~32.
+
+\bibitem[{Liu et~al.(2019)Liu, Zhuo, Cheng, Zhang, and
+  Zhu}]{liu2019understanding}
+Liu, C.; Zhuo, J.; Cheng, P.; Zhang, R.; and Zhu, J. 2019.
+\newblock Understanding and accelerating particle-based variational inference.
+\newblock In \emph{ICML}, 4082--4092.
+
+\bibitem[{Liu and Wang(2016)}]{liu2016stein}
+Liu, Q.; and Wang, D. 2016.
+\newblock Stein variational gradient descent: A general purpose bayesian
+  inference algorithm.
+\newblock \emph{arXiv preprint arXiv:1608.04471}.
+
+\bibitem[{Liu and Wang(2018)}]{liu2018stein}
+Liu, Q.; and Wang, D. 2018.
+\newblock Stein variational gradient descent as moment matching.
+\newblock \emph{arXiv preprint arXiv:1810.11693}.
+
+\bibitem[{Pu et~al.(2017)Pu, Gan, Henao, Li, Han, and Carin}]{pu2017vae}
+Pu, Y.; Gan, Z.; Henao, R.; Li, C.; Han, S.; and Carin, L. 2017.
+\newblock VAE Learning via Stein Variational Gradient Descent.
+\newblock In \emph{NIPS}.
+
+\bibitem[{Shi, Liu, and Mackey(2022)}]{shi2022sampling}
+Shi, J.; Liu, C.; and Mackey, L. 2022.
+\newblock Sampling with Mirrored Stein Operators.
+\newblock arXiv:2106.12506.
+
+\bibitem[{Zhu, Liu, and Zhu(2020)}]{zhu2020variance}
+Zhu, M.; Liu, C.; and Zhu, J. 2020.
+\newblock Variance Reduction and Quasi-Newton for Particle-Based Variational
+  Inference.
+\newblock In \emph{ICML}, 11576--11587. PMLR.
+
+\end{thebibliography}
